@@ -1,0 +1,17 @@
+.header1{
+    background-color: #f2f2f2;
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color: #333;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #ccc;
+}
+
+.cat_deals{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+    padding: 20px;
+}

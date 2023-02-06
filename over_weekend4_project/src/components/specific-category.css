@@ -1,0 +1,18 @@
+.category{
+
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    font-weight: 400;
+    text-align: center;
+    border: 2px solid #8e8e91;
+    border-radius: 2px;
+    width: fit-content;
+    padding: 20px 15px;; 
+}
+.category>img{
+    
+    width:100%;
+
+
+}

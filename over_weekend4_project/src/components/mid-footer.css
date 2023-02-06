@@ -1,0 +1,32 @@
+.mid_footer{
+    background-color: #0b0a28;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.flagicon{
+    width: 25px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.mid_foot{
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    list-style: none;
+}
+.mid_foot>li{
+    justify-items: center;
+    align-items: center;
+}
+.mid_foot>li>a{
+ color: #6e838d;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+
+}
